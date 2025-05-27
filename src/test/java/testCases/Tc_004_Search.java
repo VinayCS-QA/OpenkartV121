@@ -1,5 +1,8 @@
 package testCases;
 
-public class Tc_004_Search {
+import testBase.BaseClass;
+
+public class Tc_004_Search extends BaseClass
+{
 
 }
